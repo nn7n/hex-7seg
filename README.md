@@ -4,7 +4,7 @@
 - .jed - JEDEC file used for programming with TL866 or other compatible device.
 
 Equations are written for using with a common-anode 7-segment indicator.
-For using with a common-cathode indicator all output inversions (slash symbols) need to be removed.
+For using with a common-cathode indicator all output inversions (slash symbols) have to be removed.
 
 Input/output lines can be remapped by changing pin numbers in pin assignment section of .equ file. 
 For exact pin numbers refer to ATF16V8B datasheet.
