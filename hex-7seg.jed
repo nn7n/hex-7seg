@@ -4,7 +4,7 @@ EQN2JED - Boolean Equations to JEDEC file assembler (Version V101)
 Copyright (c) National Semiconductor Corporation 1990-1993
 Assembled from "hex-7seg.eqn". Date: 12-28-119
 	16V8 HEX-7SEG decoder
-	jmp0xa, 2019
+	nn7n, 2019
 *
 NOTE PINS d0:2 d1:3 d2:4 d3:5 a:12 b:13 c:14 d:15 e:16 f:17 g:18*
 NOTE PINS*
